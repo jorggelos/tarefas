@@ -1,0 +1,11 @@
+1 - Instalar o Node JS
+2 - Instalar o expo   npm install expo-cli --global
+3 - Criar o Aplicativo   expo init meuApp  
+4 - npm install expo
+5 - Rodar o APP  expo start
+
+6 - Para rodar o Aplicativo 
+Instale o Android Studio e as Sdks dele
+
+Se for no emulador crie um pelo android studio
+Se for rodar direto no celular baixo o aplicativo expo para poder scanear
